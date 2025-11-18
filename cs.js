@@ -60,3 +60,4 @@ function ticketPrice(age){
     }
 }
 ticketPrice(70);
+
